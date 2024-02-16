@@ -14,3 +14,7 @@ Copy and paste the below text into a text file. Upload the text file to the Azur
 - [Example for how to authentiate to Azure Storage in vanilla JavaScript](https://github.com/Azure-Samples/AzureStorageSnippets/tree/master/blobs/quickstarts/JavaScript/V12/azure-blobs-js-browser).
 - [Labs for enabling and configuring Defender for Storage for malware scanning](https://github.com/Azure/Microsoft-Defender-for-Cloud/blob/main/Labs/Modules/Module%2019%20-%20Defender%20for%20Storage.md).
 - [Defender for Storage documentation](https://learn.microsoft.com/en-us/azure/defender-for-cloud/defender-for-storage-introduction).
+
+# Images
+![Waiting for scan results](images/create-container.png?raw=true "Waiting for results")  
+![Scan Results ready](images/get-results.png?raw=true "Scan results ready")
