@@ -31,8 +31,8 @@ const status = document.getElementById("status");
 const fileTable = document.getElementById("file-table").getElementsByTagName('tbody')[0];
 
 const reportStatus = message => {
-    //status.innerHTML += `${message}<br/>`;
-    //status.scrollTop = status.scrollHeight;
+    status.innerHTML += `${message}<br/>`;
+    status.scrollTop = status.scrollHeight;
 }
 // </snippet_DeclareVariables>
 
